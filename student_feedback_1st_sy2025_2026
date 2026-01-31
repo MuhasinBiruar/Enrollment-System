@@ -1,0 +1,8 @@
+@relation CategorizedFeedback_1st_sy2025_2026
+
+@attribute comment_text string
+@attribute predicted_category {Facilities,Laboratory,Instruction,Curriculum,Evaluation}
+
+@data
+'The school facility is so dirty. I did not learn anything. Honestly, the class was such a bad experience. The professor was good, though. But, overall, the whole experience was so bad that I failed. I did not like it. Therefore, I do not recommend this class.',Instruction
+'I really liked the class. I learned so much. The recommend this class to everyone.',Evaluation
